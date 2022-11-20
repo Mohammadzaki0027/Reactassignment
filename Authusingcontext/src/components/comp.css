@@ -1,0 +1,19 @@
+#Navbar{
+    background-color: teal;
+    display: flex;
+    justify-content: space-between;
+
+}
+#Navbar a{
+text-decoration: none;
+margin-left: 50px;
+margin-right: 50px;
+}
+#formtag{
+    border: 1px solid teal;
+    width: 30%;
+    height: 150px;
+
+    margin: auto;
+    margin-top: 50px;
+}

@@ -1,0 +1,15 @@
+#Navbar{
+    background-color: teal;
+}
+#outer{
+    border: 1px solid teal;
+    width: 50%;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 25px;
+  }
+.btn{
+    border-radius: 10px;
+padding: 5px;
+}

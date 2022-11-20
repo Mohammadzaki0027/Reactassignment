@@ -1,0 +1,32 @@
+.forminput{
+    border:  1px solid red;
+width: 90%;
+height: 380px;
+margin: auto;
+
+}
+table{
+    width: 80%;
+    max-width: 500px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.append{
+    border:  1px solid teal ;
+    width: 90%;
+    height: 500px;
+    margin: auto;
+    margin-top: 10px;
+   align-items: center;
+}
+#tr ,th,tbody,td,button{
+text-align: center;
+border: 1px solid yellowgreen;
+}
+.btn{
+    border-radius: 10px;
+color: brown;
+height:40px;
+background-color: aquamarine;
+}

@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "photo": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?size=338&ext=jpg",
+      "username": "mohammadzaki",
+      "age": "15",
+      "address": "CHOTA BAZAR MALKAPUR",
+      "dept": "FED",
+      "salary": "45000",
+      "martial": "Married",
+      "Indian": "Indian",
+      "id": 1
+    },
+    {
+      "photo": "https://cdn.vectorstock.com/i/preview-1x/31/95/user-sign-icon-person-symbol-human-avatar-vector-12693195.webp",
+      "username": "zaki",
+      "age": "75",
+      "address": "kholapur",
+      "dept": "FSD",
+      "salary": "70000",
+      "martial": "UnMarried",
+      "Indian": "Indian",
+      "id": 2
+    }
+  ]
+}
