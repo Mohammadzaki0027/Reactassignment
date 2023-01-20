@@ -1,0 +1,91 @@
+:root {
+    --board-background: none;
+    --border-color: teal;
+    --border-thickness: 4px;
+}
+  
+.board{
+    width: 30vw;
+    height: 50%;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+  
+.input{
+    height: 33.33%;
+    width: 33.33%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgba(193, 19, 184, 0.914);
+    font-family: 'Bellefair', serif;
+    font-style: italic;
+    font-weight: 700;
+    font-size: 4rem;
+    border-radius: 10px;
+}
+  
+.input-1{
+    border: var(--border-thickness) 
+    double var(--border-color);
+ 
+}
+  
+.input-2{
+    border: var(--border-thickness) 
+    double var(--border-color);
+
+}
+  
+.input-3{
+    border: var(--border-thickness) 
+    double var(--border-color);
+}
+  
+.input-4{
+    border: var(--border-thickness) 
+    double var(--border-color);
+}
+  
+.input-5{
+    border: var(--border-thickness) 
+    double var(--border-color);
+
+}
+  
+.input-6{
+    border: var(--border-thickness) 
+    double var(--border-color);
+}
+  
+.input-7{
+    border: var(--border-thickness) 
+    double var(--border-color);
+}
+  
+.input-8{
+    border: var(--border-thickness) 
+    double var(--border-color);
+}
+.input-9{
+    border: var(--border-thickness) 
+    double var(--border-color);
+}
+
+@media screen and (max-width: 668px) {
+    .board{
+        width: 70vw;
+        height: 50%;
+        background: rgb(238,174,202);
+        background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+        display: flex;
+        align-items: flex-start;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    
+}
